@@ -6,8 +6,6 @@
         "continuous-integration"
     ],
     "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
         ".*\\.md$"
     ]
 }
